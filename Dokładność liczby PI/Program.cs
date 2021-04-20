@@ -24,7 +24,7 @@ namespace Dokładność_liczby_PI
 
 			setPrecision.NumberDecimalDigits = 3;
 
-			test = 5m / 3m;
+			test = 5m / 2m;
 
 			Console.WriteLine(test.ToString("N", setPrecision));
 
