@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Dokładność liczby PI/1.0.0": {
+        "runtime": {
+          "Dokładność liczby PI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dokładność liczby PI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

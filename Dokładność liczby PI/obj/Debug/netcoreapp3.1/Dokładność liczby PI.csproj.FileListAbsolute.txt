@@ -1,0 +1,13 @@
+D:\Szymon\Programowanie\Dokładność liczby PI\Dokładność liczby PI\bin\Debug\netcoreapp3.1\Dokładność liczby PI.exe
+D:\Szymon\Programowanie\Dokładność liczby PI\Dokładność liczby PI\bin\Debug\netcoreapp3.1\Dokładność liczby PI.deps.json
+D:\Szymon\Programowanie\Dokładność liczby PI\Dokładność liczby PI\bin\Debug\netcoreapp3.1\Dokładność liczby PI.runtimeconfig.json
+D:\Szymon\Programowanie\Dokładność liczby PI\Dokładność liczby PI\bin\Debug\netcoreapp3.1\Dokładność liczby PI.runtimeconfig.dev.json
+D:\Szymon\Programowanie\Dokładność liczby PI\Dokładność liczby PI\bin\Debug\netcoreapp3.1\Dokładność liczby PI.dll
+D:\Szymon\Programowanie\Dokładność liczby PI\Dokładność liczby PI\bin\Debug\netcoreapp3.1\Dokładność liczby PI.pdb
+D:\Szymon\Programowanie\Dokładność liczby PI\Dokładność liczby PI\obj\Debug\netcoreapp3.1\Dokładność liczby PI.AssemblyInfoInputs.cache
+D:\Szymon\Programowanie\Dokładność liczby PI\Dokładność liczby PI\obj\Debug\netcoreapp3.1\Dokładność liczby PI.AssemblyInfo.cs
+D:\Szymon\Programowanie\Dokładność liczby PI\Dokładność liczby PI\obj\Debug\netcoreapp3.1\Dokładność liczby PI.csproj.CoreCompileInputs.cache
+D:\Szymon\Programowanie\Dokładność liczby PI\Dokładność liczby PI\obj\Debug\netcoreapp3.1\Dokładność liczby PI.dll
+D:\Szymon\Programowanie\Dokładność liczby PI\Dokładność liczby PI\obj\Debug\netcoreapp3.1\Dokładność liczby PI.pdb
+D:\Szymon\Programowanie\Dokładność liczby PI\Dokładność liczby PI\obj\Debug\netcoreapp3.1\Dokładność liczby PI.genruntimeconfig.cache
+D:\Szymon\Programowanie\Dokładność liczby PI\Dokładność liczby PI\obj\Debug\netcoreapp3.1\Dokładność liczby PI.csprojAssemblyReference.cache
