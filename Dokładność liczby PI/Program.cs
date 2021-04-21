@@ -14,20 +14,7 @@ namespace Dokładność_liczby_PI
 			string text = Console.ReadLine();
 			decimal wynik = decimal.Parse(text);
 			//double pi = Math.PI;
-			NumberFormatInfo setPrecision = new NumberFormatInfo();
-
-			setPrecision.NumberDecimalDigits = wynik;
-
-			decimal test = 3.14159265358979323M;
-
-			Console.WriteLine(test.ToString("N", setPrecision)); //Should write 1.23
-
-			setPrecision.NumberDecimalDigits = 3;
-
-			test = 5m / 2m;
-
-			Console.WriteLine(test.ToString("N", setPrecision));
-
+			
 		}
 	}
 }
