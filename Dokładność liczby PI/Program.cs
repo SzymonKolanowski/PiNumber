@@ -13,7 +13,7 @@ namespace Dokładność_liczby_PI
 			Console.WriteLine("Podaj wymaganą dokładność liczby PI po przecinku");
 			string text = Console.ReadLine();
 			decimal wynik = decimal.Parse(text);
-			//double pi = Math.PI;
+			double pi = Math.PI;
 			
 		}
 	}
